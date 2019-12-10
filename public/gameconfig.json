@@ -1,0 +1,7 @@
+{
+    "howManyColumns":10,
+    "howManyRows":10,
+    "maxAmountOfLines":20,
+    "cellWidth":20,
+    "cellHeight":20
+}
